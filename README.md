@@ -1,2 +1,2 @@
 # gestion-personal-servicios-backend
- SISTEMA DE GESTIÓN DE PERSONAL PARA OFERTA DE SERVICIOS
+ backend diseñado con java + sprint boot + jwt
