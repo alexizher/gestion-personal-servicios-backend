@@ -23,6 +23,7 @@ public class SolicitudEntity {
 
     private boolean estado;
 
+    /*
     private Date Fecha_inicio;
 
     private Date fecha_finalizacion;
@@ -30,4 +31,5 @@ public class SolicitudEntity {
     private String nombre_contacto;
 
     private Integer tel_contacto;
+    */
 }

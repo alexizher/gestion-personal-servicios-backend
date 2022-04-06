@@ -43,7 +43,7 @@ public class AuthController {
     @Autowired
     RolService rolService;
 
-
+    @Autowired
     JwtProvider jwtProvider;
 
     @PostMapping("/nuevo")
